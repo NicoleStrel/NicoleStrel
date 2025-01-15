@@ -1,6 +1,6 @@
 ## ⚡ Hi, I'm Nicole!
 
-I'm a software engineer passionate about automation, distributed systems, and API development. I specialize in backend development and have experience in machine learning from my Bachelor's degree in Engineering at the University of Toronto.
+I'm a software engineer passionate about automation, distributed systems, and API development. I specialize in backend development and have experience in machine learning from my Bachelor's degree in Engineering from the University of Toronto.
 
 ---
 
@@ -12,7 +12,7 @@ I'm a software engineer passionate about automation, distributed systems, and AP
 - 📘 **LinkedIn**: [Nicole Streltsov](https://www.linkedin.com/in/nicole-streltsov/)
 - 💼 **Hackathon Portfolio**: [NicoleStrel](https://devpost.com/NicoleStrel)
 
-### Tech Stack:
+### Tech Stack
 ![Python](https://img.shields.io/badge/python-%2338A1F3.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
