@@ -6,6 +6,7 @@ I'm a software engineer passionate about automation, distributed systems, and AP
 
 ### Open Source Contributions
 - 🧁 SugarDB: https://github.com/EchoVault/SugarDB
+- ⛈️ Hookstorm: https://github.com/NicoleStrel/hookstorm (early stage open source repo)
 
 ### Connect With Me  
 - 🌍 **Website**: [nicolestreltsov.com](https://www.nicolestreltsov.com/)
