@@ -5,6 +5,7 @@ I'm a software engineer passionate about automation, distributed systems, and in
 ---
 
 ### Open Source Contributions
+- ☁️ Layerre: https://github.com/Layerre
 - 🧁 SugarDB: https://github.com/EchoVault/SugarDB
 - ⛈️ Hookstorm: https://github.com/NicoleStrel/hookstorm (early stage open source repo)
 
